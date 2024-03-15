@@ -19,3 +19,18 @@ int main(){
     
     return 0;
 }
+
+// *** RESULT ***  
+// Please enter a base:
+// The powers of 2 are:
+
+// 2 ^ 0 is 1
+// 2 ^ 1 is 2
+// 2 ^ 2 is 4
+// 2 ^ 3 is 8
+// 2 ^ 4 is 16
+// 2 ^ 5 is 32
+// 2 ^ 6 is 64
+// 2 ^ 7 is 128
+// 2 ^ 8 is 256
+
